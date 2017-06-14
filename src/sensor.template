@@ -1,0 +1,9 @@
+URL = 127.0.0.1
+PORT = 10001
+DATASET = Temperatrue
+
+# dataser attributes
+recordId = uuid
+temValue = float
+loc = point
+timestamp = datetime
