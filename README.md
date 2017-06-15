@@ -10,4 +10,4 @@ Related Projs:
   
 Arch Design:
 
-Data ingestion and storage is supported by AsterixDB, data analysis is supported by Spark, and search is implemented by SQL-like query. 
+Data ingestion and storage is supported by AsterixDB, data analysis is supported by Spark, and search is implemented by SQL-like query. Maven: Convention over Configuration.
